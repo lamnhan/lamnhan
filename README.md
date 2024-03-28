@@ -1,3 +1,4 @@
-👋 Hi, I’m @lamnhan. I’m a Full-stack web app developer.
+👋 Hi, the name is Nhan!
+I am a web app developer.
 - Homepage: https://lamnhan.com
 - Email: dev@lamnhan.com
