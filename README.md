@@ -1,9 +1,9 @@
 👋 Hello gorgeous, nice to meet you! 😘
 
-It's Nhan - a simple creature: **If it works, it works, if it doesn't work, make it work.**
+It's Nhan and it's simple: **`If it works, it works! If it doesn't work, make it work!`**
 
 Get in touch with me sometime:
-- Discord, Telegram: `lamnhan92`
+- Discord, Telegram: _lamnhan92_
 - Email: hello@lamnhan.com
 - Dev.to: https://dev.to/lamnhan
 - LinkedIn: https://www.linkedin.com/in/lamhiennhan
